@@ -2,6 +2,7 @@
 #################################################################
 # Macosx only.                                                  #
 # Changes message, title, timing, source, sound just be happy.  #
+# Usage: nohup python3 drink-water.py &                         #
 #################################################################
 import subprocess
 import time
